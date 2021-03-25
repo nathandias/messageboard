@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "messageboard-app",
+            "database": "\\\\wsl$\\Ubuntu-20.04\\home\\nathan\\proj\\messageboard\\database\\database.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
